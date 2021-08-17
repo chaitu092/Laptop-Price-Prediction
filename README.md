@@ -13,7 +13,8 @@ This is basically a regression problem.
 3. Feature Engineering
 4. Modeling
 5. Website/UI
-6. Deployment in Cloud platform(Herouku)
+6. Deployment in Cloud platform(Herouku) 
+7. link: https://laptopprice.herokuapp.com/
 
 
 ## Machine Learning Models
