@@ -1,5 +1,5 @@
 # LAPTOP PRICE PREDICTOR USING MACHINE LEARNING TECHNIQUES
-![Screenshot 2021-08-18 at 00-28-55 Buy 2019 Apple MacBook Pro (16-inch 40 65 cm, 16GB RAM, 512GB Storage, 2 6GHz 9th Gen Int](https://user-images.githubusercontent.com/46320744/129784910-a268445e-99a9-46cc-8386-827ca81e3677.png)
+   ![Screenshot 2021-08-18 at 00-28-55 Buy 2019 Apple MacBook Pro (16-inch 40 65 cm, 16GB RAM, 512GB Storage, 2 6GHz 9th Gen Int](https://user-images.githubusercontent.com/46320744/129784910-a268445e-99a9-46cc-8386-827ca81e3677.png)
 
 ## Problem Statement
 The objective of this project is to create end to end machine learning model to predict prices of laptop based on given set of features. If a user who is not aware of  price of laptops, but knows the features by selecting the  desired features and configurations, we can predict the price using our website.
@@ -14,8 +14,8 @@ This is basically a regression problem.
 4. Modeling
 5. Website/UI
 6. Deployment in Cloud platform (Herouku)
- ![image](https://user-images.githubusercontent.com/46320744/129787542-0a813739-a4cb-471d-90c7-e25e232b6e3e.png)
- Link- https://laptopprice.herokuapp.com/
+      ![image](https://user-images.githubusercontent.com/46320744/129787542-0a813739-a4cb-471d-90c7-e25e232b6e3e.png)
+  https://laptopprice.herokuapp.com/
 
 
 ## Machine Learning Models
