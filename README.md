@@ -13,4 +13,9 @@ The objective of this project is to create end to end machine learning model to 
 5. Website/UI
 6. Deployment in Cloud platform(Herouku)
 
+
+## Machine Learning Models
+'XGboost','Voting Regressor','Catboost','Gradient boost','LightGBM',
+              'Stacking','Random Forest','Extra Tree','Support Vector Regressor','Linear Regression',
+              'Lasso Regression','Ridge Regression','Decision Trees','Ada boost','K-Nearest Neighbors'
 ![MacBook_Pro16_Desktop](https://user-images.githubusercontent.com/46320744/129784570-f016f49c-9a7e-4d40-a883-1833c76a88a3.jpg)
