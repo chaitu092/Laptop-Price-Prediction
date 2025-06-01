@@ -1,3 +1,9 @@
 streamlit
-sklearn
+scikit-learn
 lightgbm
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+catboost
