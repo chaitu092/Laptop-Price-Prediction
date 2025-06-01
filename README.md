@@ -31,7 +31,14 @@ From the obtained results of the above models, XGBoost Classifier has highest mo
 ## Docker
 
 1. create a Dockerfile
-2. command to Build an image - docker build -t laptop-price-app .
-3. command to run docker container - docker run -p 8501:8501 laptop-price-app
+2. command to Build an image - docker build -t chaitu2508/sai-laptop-price-app .
+3. command to run docker container - docker run -p 8501:8501 chaitu2508/sai-laptop-price-app
 
 4. acces the app - Visit http://localhost:8501 in your browser.
+5. To create/host our project a registory inside dockerhub:
+a. docker login
+b. docker push chaitu2508/sai-laptop-price-app
+
+6. Now, Login to https://hub.docker.com
+and search for this repository - `chaitu2508/sai-laptop-price-app`
+![alt text](docker_repository.png)
