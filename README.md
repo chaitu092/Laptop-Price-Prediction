@@ -27,3 +27,11 @@ Lasso Regression,Ridge Regression,Decision Trees,Ada boost,K-Nearest Neighbors.
 From the obtained results of the above models, XGBoost Classifier has highest model performance of 89.8%. So the model is saved to the file 'XGBoostRegressor.pickle.dat'
 
 ![MacBook_Pro16_Desktop](https://user-images.githubusercontent.com/46320744/129784570-f016f49c-9a7e-4d40-a883-1833c76a88a3.jpg)
+
+## Docker
+
+1. create a Dockerfile
+2. command to Build an image - docker build -t laptop-price-app .
+3. command to run docker container - docker run -p 8501:8501 laptop-price-app
+
+4. acces the app - Visit http://localhost:8501 in your browser.
