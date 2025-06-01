@@ -41,4 +41,4 @@ b. docker push chaitu2508/sai-laptop-price-app
 
 6. Now, Login to https://hub.docker.com
 and search for this repository - `chaitu2508/sai-laptop-price-app`
-![alt text](docker_repository.png)
+![docker repository](image.png)
